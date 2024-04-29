@@ -1,0 +1,66 @@
+css /* mystylehome.css */
+
+body{ 
+    padding:200px 200px 200px 200px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: left;
+
+}
+
+ul{
+    list-style-type: none;
+    height: 100px;
+    float: auto;
+    margin-top:200px;
+    margin-left:450px;
+    padding-top:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+li{
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    position: relative;
+}
+
+li a:hover{
+    background-color: black;
+    color: white;
+}
+
+#main{
+    border: black 1px solid;
+    margin:0px 400px 100px 400px;
+    padding: 50px 50px 50px 50px;
+}
+
+#aboutme {
+    width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#profilepic{
+    margin-left:35%;
+    width: 100px;
+}
+
+img{
+    width: 450px;
+    height:600px;
+    margin-left:500px;
+    margin-top: -450px;
+}
